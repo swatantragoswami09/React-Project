@@ -1,0 +1,7 @@
+
+npm install
+npm start
+youtube API Key: AIzaSyCpKDpGdouTmIDG-D1Wch0hEoDq0m5kwsA
+
+npm install --save youtube-api-search
+npm install --save lodash
